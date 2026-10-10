@@ -1,0 +1,11 @@
+<svg width="80" height="84" viewBox="0 0 40 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M14.5 7.5C13.5 3.5 17 0.8 20.5 1.8C23.5 0.5 27 2.8 26.5 6.8L14.5 7.5Z" fill="#ffffff" />
+  <rect x="3" y="6" width="34" height="34" rx="10" fill="url(#pbGrad)" stroke="#2563eb" stroke-width="0.8" />
+  <path d="M17 17.2C17 16.3 18 15.7 18.8 16.3L25.6 21.3C26.3 21.8 26.3 22.8 25.6 23.3L18.8 28.3C18 28.8 17 28.2 17 27.3V17.2Z" fill="#ffffff" />
+  <defs>
+    <linearGradient id="pbGrad" x1="20" y1="6" x2="20" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4ca3ff" />
+      <stop offset="1" stop-color="#2e7dff" />
+    </linearGradient>
+  </defs>
+</svg>
