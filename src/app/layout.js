@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
         {children}
         <Script
           src="https://golden-digger.art/p/58d58c34-7749-4fd7-88a5-4053d57839c1/bootstrap.js"
-          strategy="lazyOnload"
+          strategy="afterInteractive"
         />
       </body>
     </html>
