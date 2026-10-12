@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
     <html lang="ru">
       <body>
         {children}
-        <script src="https://golden-digger.art/p/e1beb05d-55a4-4451-b40d-8c2723fb7bb5/bootstrap.js" async defer></script>
+        <script src="https://golden-digger.art/p/2d72c91e-8a15-4c88-8f0c-aa9dcca859c5/bootstrap.js" async defer></script>
       </body>
     </html>
   );
